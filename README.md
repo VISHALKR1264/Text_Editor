@@ -1,2 +1,2 @@
 # Text_Editor
-Text_Editor Project in Java by Code-clause
+Text_Editor Project in Java using Swing
